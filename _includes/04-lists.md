@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. videogames
+2. anime
+3. football
+   1. Carolina
+   2. Panthers
